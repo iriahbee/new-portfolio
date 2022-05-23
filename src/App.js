@@ -1,4 +1,7 @@
 import React from "react";
+import GlobalStyle from './GlobalStyles';
+
+//Page Sections
 import Footer from "./components/Footer";
 import Scrolltotop from "./components/Scrolltotop";
 import About from "./pages/About";
